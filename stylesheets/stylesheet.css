@@ -1,0 +1,23 @@
+#center{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+   
+    margin-top: -200px;
+    margin-left: -200px;
+    
+	text-align: center;
+}
+
+.name {
+	font-family: Impact;
+	font-style: italic;
+	font-size: 60px;
+	color: darkgreen;
+}
+
+.info{
+	font-family: Helvetica, sans-serif;
+	font-size: 25px;
+	color: grey;
+}
